@@ -14,4 +14,4 @@ Mac.zip - macOs executable file, due to Apple policy, packaging for their platfo
 Lin.zip - Linux executable file, on Linux, the application can be started by running start.sh
 
 
-.apk and .ipa files (Android and iPhone/iPad files) are not yet available.
+.apk files (Android) are not yet available. .ipa (iOS, iPadOS app) is impossible due to technical and budget limits.
