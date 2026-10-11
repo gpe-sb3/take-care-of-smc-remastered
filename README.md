@@ -15,3 +15,5 @@ Lin.zip - Linux executable file, on Linux, the application can be started by run
 
 
 .apk files (Android) are not yet available. .ipa (iOS, iPadOS app) is impossible due to technical and budget limits.
+
+# PLAY THE GAME [HERE!](https://github.com/gpe-sb3/take-care-of-smc-remastered/releases/download/HTML/TCOSM.v1.0.2.html)
